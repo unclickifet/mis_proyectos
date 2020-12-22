@@ -2,7 +2,7 @@ import urllib.request
 from bs4 import BeautifulSoup
 
 #Url de destino
-url = 'https://www.motorecambiosvferrer.es/'
+url = 'https://mike.larsson.es/es/search/734.20.78/in/all/article/493539'
 
 # Usamos request para abrir la URL
 ourUrl = urllib.request.urlopen(url)
